@@ -62,6 +62,8 @@ if it says <b>Disable</b> press <b>ENTER</b>
 
 then type.... <b>systemctl start nessusd</b> in the command line then press <b>ENTER</b>
 
+
+<img src ="Folder/Nessus 4.webp">
 <img src="Folder/start-nessusd-service (1).webp">
 
 
