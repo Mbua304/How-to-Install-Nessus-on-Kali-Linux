@@ -52,6 +52,7 @@ Now run this command
 
 sudo dpkg -i <b>N</b> press the <b>TAB button</b> on your keyboard then Press <b>ENTER</b>
 
+<img src="Folder/Nessus 3.webp">
 <img src="Folder/install-nessus-in-kali.webp">
 
 To begin installing, the plugins is needed before you can use Nessus, 
