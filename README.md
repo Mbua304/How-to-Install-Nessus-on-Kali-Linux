@@ -30,7 +30,11 @@ This section will walk you through downloading, installing, and starting Nessus 
 
 To download Nessus, visit the  <a href="https://www.tenable.com/downloads/nessus">Download page</a>  and select the Linux-Debian-amd64 file.
 
-Then, select <b>“Download”</b> to download the file to <b>Kali.</b> 
+Then, select <b>“Download”</b> to download the file to <b>Kali.</b>
+
+<img src="Folder/Nessus 2.webp">
+
+
 
 <img src="Folder/download-nessus-for-kali.webp">
 
