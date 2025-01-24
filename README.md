@@ -109,6 +109,8 @@ On the next screen, you’ll be presented with an activation code. Copy and save
 
 On the next screen, you must create a Nessus administrator user account, which will be used to login to Nessus.
 
+<img src="Folder/Nessus 10.webp">
+
 
 <img src="Folder/create-nessus-account-kali.webp">
 
