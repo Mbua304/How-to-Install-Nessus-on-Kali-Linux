@@ -116,6 +116,8 @@ On the next screen, you must create a Nessus administrator user account, which w
 
 Nessus will now begin downloading the plugins.
 
+<img src="Folder/Nessus 11.webp">
+
 <img src="Folder/nessus-plugin-download-kali.webp">
 
 
