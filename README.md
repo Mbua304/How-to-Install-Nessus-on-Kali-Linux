@@ -96,6 +96,8 @@ Select “Register for Nessus Essentials” on the following screen and click on
 
 On the next screen, provide your name and email address and click on “Register” to continue.
 
+<img src="Folder/Nessus 8.webp">
+
 <img src="Folder/get-activation-code.webp">
 
 On the next screen, you’ll be presented with an activation code. Copy and save this code somewhere for future reference. Click on “Continue.”
