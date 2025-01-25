@@ -137,6 +137,8 @@ To start Nessus, use the command sudo systemctl start nessusd.service and then o
 
 You’ll need to log in with the credentials you set earlier.
 
+<img src="Folder/Nessus 13.webp">
+
 <img src="Folder/nessus-log-in-kali.webp">
 
 
