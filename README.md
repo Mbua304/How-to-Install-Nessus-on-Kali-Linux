@@ -144,6 +144,9 @@ You’ll need to log in with the credentials you set earlier.
 
 Once you’re logged in, you can begin to use Nessus.
 
+
+<img src="Folder/Nessus 14.webp">
+
 <img src="Folder/nessus-essentials-interface-kali.webp">
 
 
