@@ -125,6 +125,8 @@ Once finished, you’ll be taken to the Nessus dashboard.
 
 From here, Nessus will start configuring the plugins, which will take a while to complete. So grab a cup of coffee and relax while it works its magic.
 
+<img src="Folder/Nessus 12.webp">
+
 <img src="Folder/nessus-plugin-download-kali-1.webp">
 
 Once finished, you’re ready to use Nessus.
